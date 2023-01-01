@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #222222;
+  background-color: black;
   font-family: 'Urbanist', sans-serif;
   color: white;
 }
@@ -15,8 +15,8 @@ h1 {
 }
 
 footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
+  color: white;
+  background-color: black;
 }
 
 .w {
